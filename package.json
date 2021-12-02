@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "scr",
+  "author": "veeti-k veetik@protonmail.com",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
+}
