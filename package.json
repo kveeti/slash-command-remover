@@ -1,10 +1,9 @@
 {
-  "type": "module",
   "name": "scr",
-  "author": "veeti-k veetik@protonmail.com",
-  "version": "1.0.0",
+  "author": "Veeti K veetik@protonmail.com",
   "main": "index.js",
-  "license": "MIT",
+  "type": "module",
+
   "scripts": {
     "start": "node index.js"
   },
